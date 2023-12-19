@@ -1,0 +1,22 @@
+pr-auc-score: 0.9953925486480176
+roc-auc-score: 0.9955555555555555
+
+f1_score: 0.967741935483871
+best threshold: 0.5
+best threshold - conf matrix:
+[[28  2]
+ [ 0 30]]
+
+acc: 0.9666666666666667
+best threshold: 0.5
+best threshold - conf matrix:
+[[28  2]
+ [ 0 30]]
+
+mcc: 0.9354143466934853
+best threshold: 0.5
+best threshold - conf matrix:
+[[28  2]
+ [ 0 30]]
+
+{'fp_length': 28, 'fp_depth': 3, 'conv_width': 15, 'h1_size': 85, 'L2_reg': 0.008095751412222874, 'init_scale': 0.0395833206089174, 'step_size': 0.3503618708399927}

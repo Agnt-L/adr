@@ -1,0 +1,41 @@
+test: positives: 180, negatives: 180
+valid
+positives: 126, negatives: 126
+train
+positives: 295, negatives: 295
+valid
+positives: 126, negatives: 126
+train
+positives: 295, negatives: 295
+valid
+positives: 126, negatives: 126
+train
+positives: 295, negatives: 295
+valid
+positives: 126, negatives: 126
+train
+positives: 295, negatives: 295
+valid
+positives: 126, negatives: 126
+train
+positives: 295, negatives: 295
+valid
+positives: 126, negatives: 126
+train
+positives: 295, negatives: 295
+valid
+positives: 126, negatives: 126
+train
+positives: 295, negatives: 295
+valid
+positives: 126, negatives: 126
+train
+positives: 295, negatives: 295
+valid
+positives: 126, negatives: 126
+train
+positives: 295, negatives: 295
+valid
+positives: 126, negatives: 126
+train
+positives: 295, negatives: 295

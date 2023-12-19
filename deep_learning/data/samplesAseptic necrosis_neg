@@ -1,0 +1,14 @@
+                   drug  ... freq
+2405         Didanosine  ...    0
+102400    Methocarbamol  ...    0
+77270          Zolpidem  ...    0
+105218      Delavirdine  ...    0
+90441       Raltegravir  ...    0
+...                 ...  ...  ...
+14408        Salbutamol  ...    0
+26930        Alprazolam  ...    0
+93204         Sunitinib  ...    0
+111680      Epinephrine  ...    0
+12127   Alendronic acid  ...    0
+
+[202096 rows x 3 columns]

@@ -1,0 +1,101 @@
+drug,smiles,freq
+Cortisone,[H][C@@]12CC[C@](O)(C(=O)CO)[C@@]1(C)CC(=O)[C@@]1([H])[C@@]2([H])CCC2=CC(=O)CC[C@]12C,1
+Dexamethasone,[H][C@@]12C[C@@H](C)[C@](O)(C(=O)CO)[C@@]1(C)C[C@H](O)[C@@]1(F)[C@@]2([H])CCC2=CC(=O)C=C[C@]12C,1
+Betamethasone,[H][C@@]12C[C@H](C)[C@](O)(C(=O)CO)[C@@]1(C)C[C@H](O)[C@@]1(F)[C@@]2([H])CCC2=CC(=O)C=C[C@]12C,1
+Methylprednisolone,[H][C@@]12CC[C@](O)(C(=O)CO)[C@@]1(C)C[C@H](O)[C@@]1([H])[C@@]2([H])C[C@H](C)C2=CC(=O)C=C[C@]12C,1
+Methylprednisolone,[H][C@@]12CC[C@](O)(C(=O)CO)[C@@]1(C)C[C@H](O)[C@@]1([H])[C@@]2([H])C[C@H](C)C2=CC(=O)C=C[C@]12C,1
+Betamethasone,[H][C@@]12C[C@H](C)[C@](O)(C(=O)CO)[C@@]1(C)C[C@H](O)[C@@]1(F)[C@@]2([H])CCC2=CC(=O)C=C[C@]12C,1
+Methotrexate,CN(CC1=CN=C2N=C(N)N=C(N)C2=N1)C1=CC=C(C=C1)C(=O)N[C@@H](CCC(O)=O)C(O)=O,1
+Triamcinolone,[H][C@@]12C[C@@H](O)[C@](O)(C(=O)CO)[C@@]1(C)C[C@H](O)[C@@]1(F)[C@@]2([H])CCC2=CC(=O)C=C[C@]12C,1
+Methotrexate,[H][C@@](CCC(O)=O)(NC(=O)C1=CC=C(C=C1)N(C)CC1=NC2=C(N)NC(=N)N=C2N=C1)C(O)=O,1
+Fludrocortisone,[H][C@@]12CC[C@](O)(C(=O)CO)[C@@]1(C)C[C@H](O)[C@@]1(F)[C@@]2([H])CCC2=CC(=O)CC[C@]12C,1
+Prednisolone acetate,[H][C@@]12CC[C@](O)(C(=O)COC(C)=O)[C@@]1(C)C[C@]([H])(O)[C@@]1([H])[C@@]2([H])CCC2=CC(=O)C=C[C@]12C,1
+Cortisone,[H][C@@]12CC[C@](O)(C(=O)CO)[C@@]1(C)CC(=O)[C@@]1([H])[C@@]2([H])CCC2=CC(=O)CC[C@]12C,1
+Methotrexate,CN(CC1=CN=C2N=C(N)N=C(N)C2=N1)C1=CC=C(C=C1)C(=O)N[C@@H](CCC(O)=O)C(O)=O,1
+Methotrexate,CN(CC1=CN=C2N=C(N)N=C(N)C2=N1)C1=CC=C(C=C1)C(=O)N[C@@H](CCC(O)=O)C(O)=O,1
+Methotrexate,CN(CC1=CN=C2N=C(N)N=C(N)C2=N1)C1=CC=C(C=C1)C(=O)N[C@@H](CCC(O)=O)C(O)=O,1
+Methylprednisolone,[H][C@@]12CC[C@](O)(C(=O)CO)[C@@]1(C)C[C@H](O)[C@@]1([H])[C@@]2([H])C[C@H](C)C2=CC(=O)C=C[C@]12C,1
+Fludrocortisone,[H][C@@]12CC[C@](O)(C(=O)CO)[C@@]1(C)C[C@H](O)[C@@]1(F)[C@@]2([H])CCC2=CC(=O)CC[C@]12C,1
+Dexamethasone,[H][C@@]12C[C@@H](C)[C@](O)(C(=O)CO)[C@@]1(C)C[C@H](O)[C@@]1(F)[C@@]2([H])CCC2=CC(=O)C=C[C@]12C,1
+Prednisolone,[H][C@@]12CC[C@](O)(C(=O)CO)[C@@]1(C)C[C@H](O)[C@@]1([H])[C@@]2([H])CCC2=CC(=O)C=C[C@]12C,1
+Triamcinolone,[H][C@@]12C[C@@H](O)[C@](O)(C(=O)CO)[C@@]1(C)C[C@H](O)[C@@]1(F)[C@@]2([H])CCC2=CC(=O)C=C[C@]12C,1
+Prednisone,[H][C@@]12CC[C@](O)(C(=O)CO)[C@@]1(C)CC(=O)[C@@]1([H])[C@@]2([H])CCC2=CC(=O)C=C[C@]12C,1
+Methotrexate,[H][C@@](CCC(O)=O)(NC(=O)C1=CC=C(C=C1)N(C)CC1=NC2=C(N)NC(=N)N=C2N=C1)C(O)=O,1
+Prednisolone acetate,[H][C@@]12CC[C@](O)(C(=O)COC(C)=O)[C@@]1(C)C[C@]([H])(O)[C@@]1([H])[C@@]2([H])CCC2=CC(=O)C=C[C@]12C,1
+Prednisolone acetate,[H][C@@]12CC[C@](O)(C(=O)COC(C)=O)[C@@]1(C)C[C@]([H])(O)[C@@]1([H])[C@@]2([H])CCC2=CC(=O)C=C[C@]12C,1
+Triamcinolone,[H][C@@]12C[C@@H](O)[C@](O)(C(=O)CO)[C@@]1(C)C[C@H](O)[C@@]1(F)[C@@]2([H])CCC2=CC(=O)C=C[C@]12C,1
+Methylprednisolone,[H][C@@]12CC[C@](O)(C(=O)CO)[C@@]1(C)C[C@H](O)[C@@]1([H])[C@@]2([H])C[C@H](C)C2=CC(=O)C=C[C@]12C,1
+Triamcinolone,[H][C@@]12C[C@@H](O)[C@](O)(C(=O)CO)[C@@]1(C)C[C@H](O)[C@@]1(F)[C@@]2([H])CCC2=CC(=O)C=C[C@]12C,1
+Methylprednisolone,[H][C@@]12CC[C@](O)(C(=O)CO)[C@@]1(C)C[C@H](O)[C@@]1([H])[C@@]2([H])C[C@H](C)C2=CC(=O)C=C[C@]12C,1
+Prednisolone,[H][C@@]12CC[C@](O)(C(=O)CO)[C@@]1(C)C[C@H](O)[C@@]1([H])[C@@]2([H])CCC2=CC(=O)C=C[C@]12C,1
+Methotrexate,[H][C@@](CCC(O)=O)(NC(=O)C1=CC=C(C=C1)N(C)CC1=NC2=C(N)NC(=N)N=C2N=C1)C(O)=O,1
+Fludrocortisone,[H][C@@]12CC[C@](O)(C(=O)CO)[C@@]1(C)C[C@H](O)[C@@]1(F)[C@@]2([H])CCC2=CC(=O)CC[C@]12C,1
+Methylprednisolone,[H][C@@]12CC[C@](O)(C(=O)CO)[C@@]1(C)C[C@H](O)[C@@]1([H])[C@@]2([H])C[C@H](C)C2=CC(=O)C=C[C@]12C,1
+Prednisolone acetate,[H][C@@]12CC[C@](O)(C(=O)COC(C)=O)[C@@]1(C)C[C@]([H])(O)[C@@]1([H])[C@@]2([H])CCC2=CC(=O)C=C[C@]12C,1
+Hydrocortisone,[H][C@@]12CC[C@](O)(C(=O)CO)[C@@]1(C)C[C@H](O)[C@@]1([H])[C@@]2([H])CCC2=CC(=O)CC[C@]12C,1
+Prednisolone acetate,[H][C@@]12CC[C@](O)(C(=O)COC(C)=O)[C@@]1(C)C[C@]([H])(O)[C@@]1([H])[C@@]2([H])CCC2=CC(=O)C=C[C@]12C,1
+Dexamethasone,[H][C@@]12C[C@@H](C)[C@](O)(C(=O)CO)[C@@]1(C)C[C@H](O)[C@@]1(F)[C@@]2([H])CCC2=CC(=O)C=C[C@]12C,1
+Prednisolone acetate,[H][C@@]12CC[C@](O)(C(=O)COC(C)=O)[C@@]1(C)C[C@]([H])(O)[C@@]1([H])[C@@]2([H])CCC2=CC(=O)C=C[C@]12C,1
+Betamethasone,[H][C@@]12C[C@H](C)[C@](O)(C(=O)CO)[C@@]1(C)C[C@H](O)[C@@]1(F)[C@@]2([H])CCC2=CC(=O)C=C[C@]12C,1
+Dexamethasone,[H][C@@]12C[C@@H](C)[C@](O)(C(=O)CO)[C@@]1(C)C[C@H](O)[C@@]1(F)[C@@]2([H])CCC2=CC(=O)C=C[C@]12C,1
+Hydrocortisone,[H][C@@]12CC[C@](O)(C(=O)CO)[C@@]1(C)C[C@H](O)[C@@]1([H])[C@@]2([H])CCC2=CC(=O)CC[C@]12C,1
+Prednisone,[H][C@@]12CC[C@](O)(C(=O)CO)[C@@]1(C)CC(=O)[C@@]1([H])[C@@]2([H])CCC2=CC(=O)C=C[C@]12C,1
+Methotrexate,[H][C@@](CCC(O)=O)(NC(=O)C1=CC=C(C=C1)N(C)CC1=NC2=C(N)NC(=N)N=C2N=C1)C(O)=O,1
+Methotrexate,[H][C@@](CCC(O)=O)(NC(=O)C1=CC=C(C=C1)N(C)CC1=NC2=C(N)NC(=N)N=C2N=C1)C(O)=O,1
+Methotrexate,[H][C@@](CCC(O)=O)(NC(=O)C1=CC=C(C=C1)N(C)CC1=NC2=C(N)NC(=N)N=C2N=C1)C(O)=O,1
+Betamethasone,[H][C@@]12C[C@H](C)[C@](O)(C(=O)CO)[C@@]1(C)C[C@H](O)[C@@]1(F)[C@@]2([H])CCC2=CC(=O)C=C[C@]12C,1
+Prednisolone,[H][C@@]12CC[C@](O)(C(=O)CO)[C@@]1(C)C[C@H](O)[C@@]1([H])[C@@]2([H])CCC2=CC(=O)C=C[C@]12C,1
+Betamethasone,[H][C@@]12C[C@H](C)[C@](O)(C(=O)CO)[C@@]1(C)C[C@H](O)[C@@]1(F)[C@@]2([H])CCC2=CC(=O)C=C[C@]12C,1
+Prednisolone acetate,[H][C@@]12CC[C@](O)(C(=O)COC(C)=O)[C@@]1(C)C[C@]([H])(O)[C@@]1([H])[C@@]2([H])CCC2=CC(=O)C=C[C@]12C,1
+Hydrocortisone,[H][C@@]12CC[C@](O)(C(=O)CO)[C@@]1(C)C[C@H](O)[C@@]1([H])[C@@]2([H])CCC2=CC(=O)CC[C@]12C,1
+Methotrexate,[H][C@@](CCC(O)=O)(NC(=O)C1=CC=C(C=C1)N(C)CC1=NC2=C(N)NC(=N)N=C2N=C1)C(O)=O,1
+Methylprednisolone,[H][C@@]12CC[C@](O)(C(=O)CO)[C@@]1(C)C[C@H](O)[C@@]1([H])[C@@]2([H])C[C@H](C)C2=CC(=O)C=C[C@]12C,1
+Fludrocortisone,[H][C@@]12CC[C@](O)(C(=O)CO)[C@@]1(C)C[C@H](O)[C@@]1(F)[C@@]2([H])CCC2=CC(=O)CC[C@]12C,1
+Methotrexate,CN(CC1=CN=C2N=C(N)N=C(N)C2=N1)C1=CC=C(C=C1)C(=O)N[C@@H](CCC(O)=O)C(O)=O,1
+Triamcinolone,[H][C@@]12C[C@@H](O)[C@](O)(C(=O)CO)[C@@]1(C)C[C@H](O)[C@@]1(F)[C@@]2([H])CCC2=CC(=O)C=C[C@]12C,1
+Betamethasone,[H][C@@]12C[C@H](C)[C@](O)(C(=O)CO)[C@@]1(C)C[C@H](O)[C@@]1(F)[C@@]2([H])CCC2=CC(=O)C=C[C@]12C,1
+Prednisolone,[H][C@@]12CC[C@](O)(C(=O)CO)[C@@]1(C)C[C@H](O)[C@@]1([H])[C@@]2([H])CCC2=CC(=O)C=C[C@]12C,1
+Triamcinolone,[H][C@@]12C[C@@H](O)[C@](O)(C(=O)CO)[C@@]1(C)C[C@H](O)[C@@]1(F)[C@@]2([H])CCC2=CC(=O)C=C[C@]12C,1
+Betamethasone,[H][C@@]12C[C@H](C)[C@](O)(C(=O)CO)[C@@]1(C)C[C@H](O)[C@@]1(F)[C@@]2([H])CCC2=CC(=O)C=C[C@]12C,1
+Betamethasone,[H][C@@]12C[C@H](C)[C@](O)(C(=O)CO)[C@@]1(C)C[C@H](O)[C@@]1(F)[C@@]2([H])CCC2=CC(=O)C=C[C@]12C,1
+Triamcinolone,[H][C@@]12C[C@@H](O)[C@](O)(C(=O)CO)[C@@]1(C)C[C@H](O)[C@@]1(F)[C@@]2([H])CCC2=CC(=O)C=C[C@]12C,1
+Prednisolone,[H][C@@]12CC[C@](O)(C(=O)CO)[C@@]1(C)C[C@H](O)[C@@]1([H])[C@@]2([H])CCC2=CC(=O)C=C[C@]12C,1
+Prednisone,[H][C@@]12CC[C@](O)(C(=O)CO)[C@@]1(C)CC(=O)[C@@]1([H])[C@@]2([H])CCC2=CC(=O)C=C[C@]12C,1
+Dexamethasone,[H][C@@]12C[C@@H](C)[C@](O)(C(=O)CO)[C@@]1(C)C[C@H](O)[C@@]1(F)[C@@]2([H])CCC2=CC(=O)C=C[C@]12C,1
+Betamethasone,[H][C@@]12C[C@H](C)[C@](O)(C(=O)CO)[C@@]1(C)C[C@H](O)[C@@]1(F)[C@@]2([H])CCC2=CC(=O)C=C[C@]12C,1
+Hydrocortisone,[H][C@@]12CC[C@](O)(C(=O)CO)[C@@]1(C)C[C@H](O)[C@@]1([H])[C@@]2([H])CCC2=CC(=O)CC[C@]12C,1
+Prednisone,[H][C@@]12CC[C@](O)(C(=O)CO)[C@@]1(C)CC(=O)[C@@]1([H])[C@@]2([H])CCC2=CC(=O)C=C[C@]12C,1
+Methotrexate,[H][C@@](CCC(O)=O)(NC(=O)C1=CC=C(C=C1)N(C)CC1=NC2=C(N)NC(=N)N=C2N=C1)C(O)=O,1
+Betamethasone,[H][C@@]12C[C@H](C)[C@](O)(C(=O)CO)[C@@]1(C)C[C@H](O)[C@@]1(F)[C@@]2([H])CCC2=CC(=O)C=C[C@]12C,1
+Betamethasone,[H][C@@]12C[C@H](C)[C@](O)(C(=O)CO)[C@@]1(C)C[C@H](O)[C@@]1(F)[C@@]2([H])CCC2=CC(=O)C=C[C@]12C,1
+Prednisolone acetate,[H][C@@]12CC[C@](O)(C(=O)COC(C)=O)[C@@]1(C)C[C@]([H])(O)[C@@]1([H])[C@@]2([H])CCC2=CC(=O)C=C[C@]12C,1
+Methylprednisolone,[H][C@@]12CC[C@](O)(C(=O)CO)[C@@]1(C)C[C@H](O)[C@@]1([H])[C@@]2([H])C[C@H](C)C2=CC(=O)C=C[C@]12C,1
+Prednisone,[H][C@@]12CC[C@](O)(C(=O)CO)[C@@]1(C)CC(=O)[C@@]1([H])[C@@]2([H])CCC2=CC(=O)C=C[C@]12C,1
+Methotrexate,[H][C@@](CCC(O)=O)(NC(=O)C1=CC=C(C=C1)N(C)CC1=NC2=C(N)NC(=N)N=C2N=C1)C(O)=O,1
+Prednisone,[H][C@@]12CC[C@](O)(C(=O)CO)[C@@]1(C)CC(=O)[C@@]1([H])[C@@]2([H])CCC2=CC(=O)C=C[C@]12C,1
+Prednisone,[H][C@@]12CC[C@](O)(C(=O)CO)[C@@]1(C)CC(=O)[C@@]1([H])[C@@]2([H])CCC2=CC(=O)C=C[C@]12C,1
+Prednisone,[H][C@@]12CC[C@](O)(C(=O)CO)[C@@]1(C)CC(=O)[C@@]1([H])[C@@]2([H])CCC2=CC(=O)C=C[C@]12C,1
+Prednisone,[H][C@@]12CC[C@](O)(C(=O)CO)[C@@]1(C)CC(=O)[C@@]1([H])[C@@]2([H])CCC2=CC(=O)C=C[C@]12C,1
+Prednisolone,[H][C@@]12CC[C@](O)(C(=O)CO)[C@@]1(C)C[C@H](O)[C@@]1([H])[C@@]2([H])CCC2=CC(=O)C=C[C@]12C,1
+Cortisone,[H][C@@]12CC[C@](O)(C(=O)CO)[C@@]1(C)CC(=O)[C@@]1([H])[C@@]2([H])CCC2=CC(=O)CC[C@]12C,1
+Prednisolone acetate,[H][C@@]12CC[C@](O)(C(=O)COC(C)=O)[C@@]1(C)C[C@]([H])(O)[C@@]1([H])[C@@]2([H])CCC2=CC(=O)C=C[C@]12C,1
+Fludrocortisone,[H][C@@]12CC[C@](O)(C(=O)CO)[C@@]1(C)C[C@H](O)[C@@]1(F)[C@@]2([H])CCC2=CC(=O)CC[C@]12C,1
+Cortisone,[H][C@@]12CC[C@](O)(C(=O)CO)[C@@]1(C)CC(=O)[C@@]1([H])[C@@]2([H])CCC2=CC(=O)CC[C@]12C,1
+Methotrexate,[H][C@@](CCC(O)=O)(NC(=O)C1=CC=C(C=C1)N(C)CC1=NC2=C(N)NC(=N)N=C2N=C1)C(O)=O,1
+Cortisone,[H][C@@]12CC[C@](O)(C(=O)CO)[C@@]1(C)CC(=O)[C@@]1([H])[C@@]2([H])CCC2=CC(=O)CC[C@]12C,1
+Prednisolone,[H][C@@]12CC[C@](O)(C(=O)CO)[C@@]1(C)C[C@H](O)[C@@]1([H])[C@@]2([H])CCC2=CC(=O)C=C[C@]12C,1
+Methotrexate,CN(CC1=CN=C2N=C(N)N=C(N)C2=N1)C1=CC=C(C=C1)C(=O)N[C@@H](CCC(O)=O)C(O)=O,1
+Dexamethasone,[H][C@@]12C[C@@H](C)[C@](O)(C(=O)CO)[C@@]1(C)C[C@H](O)[C@@]1(F)[C@@]2([H])CCC2=CC(=O)C=C[C@]12C,1
+Betamethasone,[H][C@@]12C[C@H](C)[C@](O)(C(=O)CO)[C@@]1(C)C[C@H](O)[C@@]1(F)[C@@]2([H])CCC2=CC(=O)C=C[C@]12C,1
+Prednisolone acetate,[H][C@@]12CC[C@](O)(C(=O)COC(C)=O)[C@@]1(C)C[C@]([H])(O)[C@@]1([H])[C@@]2([H])CCC2=CC(=O)C=C[C@]12C,1
+Prednisolone,[H][C@@]12CC[C@](O)(C(=O)CO)[C@@]1(C)C[C@H](O)[C@@]1([H])[C@@]2([H])CCC2=CC(=O)C=C[C@]12C,1
+Prednisone,[H][C@@]12CC[C@](O)(C(=O)CO)[C@@]1(C)CC(=O)[C@@]1([H])[C@@]2([H])CCC2=CC(=O)C=C[C@]12C,1
+Dexamethasone,[H][C@@]12C[C@@H](C)[C@](O)(C(=O)CO)[C@@]1(C)C[C@H](O)[C@@]1(F)[C@@]2([H])CCC2=CC(=O)C=C[C@]12C,1
+Betamethasone,[H][C@@]12C[C@H](C)[C@](O)(C(=O)CO)[C@@]1(C)C[C@H](O)[C@@]1(F)[C@@]2([H])CCC2=CC(=O)C=C[C@]12C,1
+Prednisolone acetate,[H][C@@]12CC[C@](O)(C(=O)COC(C)=O)[C@@]1(C)C[C@]([H])(O)[C@@]1([H])[C@@]2([H])CCC2=CC(=O)C=C[C@]12C,1
+Hydrocortisone,[H][C@@]12CC[C@](O)(C(=O)CO)[C@@]1(C)C[C@H](O)[C@@]1([H])[C@@]2([H])CCC2=CC(=O)CC[C@]12C,1
+Prednisolone acetate,[H][C@@]12CC[C@](O)(C(=O)COC(C)=O)[C@@]1(C)C[C@]([H])(O)[C@@]1([H])[C@@]2([H])CCC2=CC(=O)C=C[C@]12C,1
+Cortisone,[H][C@@]12CC[C@](O)(C(=O)CO)[C@@]1(C)CC(=O)[C@@]1([H])[C@@]2([H])CCC2=CC(=O)CC[C@]12C,1
+Betamethasone,[H][C@@]12C[C@H](C)[C@](O)(C(=O)CO)[C@@]1(C)C[C@H](O)[C@@]1(F)[C@@]2([H])CCC2=CC(=O)C=C[C@]12C,1
+Dexamethasone,[H][C@@]12C[C@@H](C)[C@](O)(C(=O)CO)[C@@]1(C)C[C@H](O)[C@@]1(F)[C@@]2([H])CCC2=CC(=O)C=C[C@]12C,1
+Triamcinolone,[H][C@@]12C[C@@H](O)[C@](O)(C(=O)CO)[C@@]1(C)C[C@H](O)[C@@]1(F)[C@@]2([H])CCC2=CC(=O)C=C[C@]12C,1

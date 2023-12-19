@@ -1,0 +1,21 @@
+pr-auc-score: 0.464673499769238
+roc-auc-score: 0.5718393954523358
+
+f1_score: 0.5569689759311797
+best threshold: -4.221366782862731
+best threshold - conf matrix:
+[[ 331 9512]
+ [ 170 6086]]
+
+acc: 0.6174917696751351
+best threshold: 0.8373688861577196
+best threshold - conf matrix:
+[[8125 1718]
+ [4440 1816]]
+
+mcc: 0.10853845079263963
+best threshold: 0.19458077315128222
+best threshold - conf matrix:
+[[5960 3883]
+ [3097 3159]]
+

@@ -1,0 +1,14 @@
+                         drug  ... freq
+97442    Acetohydroxamic acid  ...    0
+86010               Letrozole  ...    0
+180094           Lenalidomide  ...    0
+112507     Methylprednisolone  ...    0
+151355              Glipizide  ...    0
+...                       ...  ...  ...
+140430  Mycophenolate mofetil  ...    0
+6111                Miglustat  ...    0
+174729    Cyproterone acetate  ...    0
+95482              Indapamide  ...    0
+134755             Clonazepam  ...    0
+
+[201318 rows x 3 columns]

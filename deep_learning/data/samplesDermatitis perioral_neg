@@ -1,0 +1,14 @@
+                 drug                                             smiles  freq
+99476       Oxycodone  COC1=C2O[C@H]3C(=O)CC[C@@]4(O)[C@H]5CC(C=C1)=C...     0
+32794   Hydromorphone  [H][C@@]12OC3=C(O)C=CC4=C3[C@@]11CCN(C)[C@]([H...     0
+170237   Isotretinoin  C\\C(\\C=C\\C1=C(C)CCCC1(C)C)=C/C=C/C(/C)=C\\C...     0
+46489        Naproxen            COC1=CC2=C(C=C1)C=C(C=C2)[C@H](C)C(O)=O     0
+180633        Iohexol  CC(=O)N(CC(O)CO)C1=C(I)C(C(=O)NCC(O)CO)=C(I)C(...     0
+...               ...                                                ...   ...
+66155     Risperidone  CC1=C(CCN2CCC(CC2)C2=NOC3=C2C=CC(F)=C3)C(=O)N2...     0
+173506       Diazepam          CN1C2=C(C=C(Cl)C=C2)C(=NCC1=O)C1=CC=CC=C1     0
+65245     Acamprosate                               CC(=O)NCCCS(O)(=O)=O     0
+101614     Carvedilol  COC1=CC=CC=C1OCCNCC(O)COC1=CC=CC2=C1C1=CC=CC=C1N2     0
+57168        Morphine  [H][C@@]12OC3=C(O)C=CC4=C3[C@@]11CCN(C)[C@]([H...     0
+
+[202084 rows x 3 columns]

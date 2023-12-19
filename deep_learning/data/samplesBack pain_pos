@@ -1,0 +1,14 @@
+                                 drug  ... freq
+51                        Tigecycline  ...    1
+242                          Orlistat  ...    1
+43                         Duloxetine  ...    1
+224                       Repaglinide  ...    1
+166            Dinoprost tromethamine  ...    1
+..                                ...  ...  ...
+428  Beclomethasone 17-monopropionate  ...    1
+290                        Argatroban  ...    1
+110                         Ribavirin  ...    1
+247                       Fludarabine  ...    1
+136                          Thiotepa  ...    1
+
+[435 rows x 3 columns]
