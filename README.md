@@ -60,3 +60,23 @@ There are different options for evaluation. Regression metrics are calculated by
 Continuous (in `train_cont` and `train_cont`) or categorical frequency values (in `train_classes` and `test_classes`) can be used. The resulting evaluation files in the data folder have a specified extension, for example  '_classes' or '_cont'. `final_eval_binary` needs to be given binary thresholds that can either be optimized for the categorical or the continous data. Optimal binary thresholds can be produced by the method `thresholds.binary_thresh([training set], zeros, k, alpha, [number of cross-validation splits])`.  
 
 Run `randSearchExp([number of cross-validation splits], [number of iterations], zeros, [training set])` for hyperparameter optimization. It will print out a line of the hyperparameters producing the pareto optimal pairs of RMSE and PR AUC. A line with PR AUC values and a line with RMSE values. One can then choose the desired hyperparameter combination and set them as global variables. Then run the final evaluation.
+
+
+**Sources**
+
+The implementation of ComplEx algorithm [1], matrix decomposition [2], and deep learning framework [3] are largely based on already existing implementations. The implementation of ComplEx algorithm is based on a demo [5] of the StellarGraph library [4]. The matrix decomposition implementation is based on a GitHub repository [8] made by some of the authors of the corresponding paper [2]. The implementation of the deep learning framework is also based on a GitHub repository [6], which is related to a paper on neural fingerprints [7] resembling the ones used in the deep learning framework [3].
+
+Index of Cited References
+[1] Trouillon, T., Welbl, J., Riedel, S., Gaussier, É., & Bouchard, G. (2016). Complex embeddings for simple link prediction. CoRR, abs/1606.06357.
+
+[2] Galeano, D., Li, S., Gerstein, M., & Paccanaro, A. (2020). Predicting the frequencies of drug side effects. Nature Communications, 11(1), 4575. doi: 10.1038/s41467-020-18305-y.
+
+[3] Dey, S., Luo, H., Fokoue, A., Hu, J., & Zhang, P. (2018). Predicting adverse drug reactions through interpretable deep learning framework. BMC Bioinformatics, 19(21), 476. doi: 10.1186/s12859-018-2544-0.
+
+[4] Data61, C. (2018). Stellargraph machine learning library. Retrieved from https://github.com/stellargraph/stellargraph.
+
+[5] Data61, C. (2018). Knowledge graph link prediction with complex. Retrieved from https://stellargraph.readthedocs.io/en/stable/demos/link-prediction/complex-link-prediction.html.
+
+[6] Duvenaud, D. M., & Adams, R. P. (2018). neural-fingerprint. Retrieved from https://github.com/HIPS/neural-fingerprint.
+
+[7] Duvenaud, D., Maclaurin, D., Aguilera-Iparraguirre, J., Gómez-Bombarelli, R., Hirzel, T., Aspuru-Guzik, A., & Adams, R. P. (2015). Convolutional networks on graphs for learning molecular fingerprints. Retrieved from https://arxiv.org/abs/1509.09292.
